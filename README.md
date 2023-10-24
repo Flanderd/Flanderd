@@ -1,6 +1,6 @@
 ### Hi there I'm 青石雨巷👋
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playpen+Sans&weight=600&size=18&pause=1000&color=F7692F&random=false&width=435&lines=A+community+with+a+shared+future+for+mankind%EF%BC%81" alt="Typing SVG" /></a>
+  <a href=""><img src="https://readme-typing-svg.demolab.com?font=Playpen+Sans&weight=600&size=18&pause=1000&color=F7692F&random=false&width=435&lines=A+community+with+a+shared+future+for+mankind%EF%BC%81" alt="Typing SVG" /></a>
 </h1>
 
 - 🌱 I’m currently learning data analysis
