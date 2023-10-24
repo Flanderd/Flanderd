@@ -42,7 +42,7 @@
 
 <tr>
 <td>
-  <img src="image/loading 加载中_爱给网_aigei_com.gif" /><br>
+  <img src="image/透明背景_Loading2_爱给网_aigei_com.gif" /><br>
   <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
