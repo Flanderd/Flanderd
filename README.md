@@ -5,6 +5,15 @@
 
 <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+<!-- profile logo 个人资料徽标 -->
+  <div align="center">
+    <a href="https://dataanalysis.vip/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href=""><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+    <a href=""><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+    <a href=""><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <a href="/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
 - 🌱 I’m currently learning data analysis
 
 
