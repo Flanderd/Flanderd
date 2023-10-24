@@ -16,12 +16,7 @@
     <a href="/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
   </div>
     
-    
-- 🌱 I’m currently learning data analysis
-
-
-
-- 🔭 My blog:www.dataanalysis.vip
+ 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
@@ -31,7 +26,21 @@
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Flanderd&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- About me 关于我 -->
+### 🤺 About Me
 
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+
+<p>&emsp;&emsp;大家好，我是青石雨巷。</p>
+<p>&emsp;&emsp;热爱编程、篮球、读书、旅行。</p>
+<p>&emsp;&emsp;热爱数据科学和IT互联网事业，励志成为一名优秀的数据分析工作者。</p>
+<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+
+</td></tr>
+
+<tr>
+<td>
 <!--
 **Flanderd/Flanderd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
