@@ -1,8 +1,7 @@
-### Hi there I'm 青石雨巷👋
+### Hi  I'm 青石雨巷👋
 <h1 align="center">
-  <a href=""><img src="https://readme-typing-svg.demolab.com?font=Playpen+Sans&weight=600&size=18&pause=1000&color=F7692F&random=false&width=435&lines=A+community+with+a+shared+future+for+mankind%EF%BC%81" alt="Typing SVG" /></a>
-  <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+XiaoWei&size=25&duration=6000&pause=800&color=000000&random=false&width=500&lines=%E4%BA%BA%E7%B1%BB%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93" alt="Typing SVG" /></a>
+  <a href=""><img src="https://readme-typing-svg.demolab.com?font=Playpen+Sans&weight=600&size=18&pause=1000&color=F7692F&random=false&width=435&lines=A+community+with+a+shared+future+for+mankind%EF%BC%81" alt="Typing SVG" /></a><br>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+XiaoWei&size=25&duration=6000&pause=1500&color=F70000&random=false&width=180&lines=%E4%BA%BA%E7%B1%BB%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93" alt="Typing SVG" /></a>
 </h1>
 
 <!-- knock code pictures 敲代码的图片 -->
@@ -44,11 +43,6 @@
 
 <tr>
 <td>
-  
-<h1 align="center">
-  <img src="image/透明背景_Loading2_爱给网_aigei_com.gif" /><br>
-</h1>
-
   <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
@@ -71,7 +65,10 @@ Sunday                   249 commits         ████░░░░░░░�
 ```
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Flanderd&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<!-- knock code pictures 敲代码的图片 -->
+  <div align="center">
+  <img src="image/持刀火柴人_爱给网_aigei_com.gif" /><br>
+  </div>
 <!--
 **Flanderd/Flanderd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
