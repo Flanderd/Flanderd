@@ -2,7 +2,9 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playpen+Sans&weight=600&size=18&pause=1000&color=F7692F&random=false&width=435&lines=A+community+with+a+shared+future+for+mankind%EF%BC%81" alt="Typing SVG" /></a>
 </h1>
+
 - 🌱 I’m currently learning data analysis
+- 
 - 🔭 My blog:www.dataanalysis.vip
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Flanderd&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
