@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playpen+Sans&size=15&pause=1000&color=F70000&random=false&width=435&lines=A+community+with+a+shared+future+for+mankind%EF%BC%81)](https://git.io/typing-svg)
 - 🌱 I’m currently learning data analysis
 - 🔭 My blog:www.dataanalysis.vip
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Flanderd&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
