@@ -44,7 +44,11 @@
 
 <tr>
 <td>
+  
+<h1 align="center">
   <img src="image/透明背景_Loading2_爱给网_aigei_com.gif" /><br>
+</h1>
+
   <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
