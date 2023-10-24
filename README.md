@@ -5,7 +5,7 @@
 
 <!-- knock code pictures 敲代码的图片 -->
   <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+  <img src="image/loading 加载中_爱给网_aigei_com.gif" /><br>
   </div>
 <!-- profile logo 个人资料徽标 -->
   <div align="center">
