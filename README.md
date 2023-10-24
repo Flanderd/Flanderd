@@ -25,7 +25,6 @@
 </picture>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Flanderd&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
@@ -41,6 +40,29 @@
 
 <tr>
 <td>
+  <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                395 commits         ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+🌆 Daytime                552 commits         ████████░░░░░░░░░░░░░░░░░   31.17 % 
+🌃 Evening                553 commits         ████████░░░░░░░░░░░░░░░░░   31.23 % 
+🌙 Night                  271 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+Tuesday                  194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Wednesday                227 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Thursday                 222 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Friday                   486 commits         ███████░░░░░░░░░░░░░░░░░░   27.44 % 
+Saturday                 163 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Sunday                   249 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+```
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Flanderd&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--
 **Flanderd/Flanderd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
