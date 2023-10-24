@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flanderd)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 I’m currently learning data analysis
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flanderd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Flanderd/Flanderd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
