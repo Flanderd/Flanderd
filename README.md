@@ -31,7 +31,7 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+<img align="right" width="88" src="image/萌态龙猫做运动表情包9_爱给网_aigei_com.gif" />
 
 <p>&emsp;&emsp;大家好，我是青石雨巷。</p>
 <p>&emsp;&emsp;热爱编程、篮球、读书、旅行。</p>
@@ -63,12 +63,9 @@ Friday                   486 commits         ███████░░░░�
 Saturday                 163 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
 Sunday                   249 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
 ```
-
+<!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Flanderd&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!-- knock code pictures 敲代码的图片 -->
-  <div align="center">
-  <img src="image/持刀火柴人_爱给网_aigei_com.gif" /><br>
-  </div>
+-->
 <!--
 **Flanderd/Flanderd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
