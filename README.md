@@ -1,6 +1,8 @@
 ### Hi there I'm 青石雨巷👋
 <h1 align="center">
   <a href=""><img src="https://readme-typing-svg.demolab.com?font=Playpen+Sans&weight=600&size=18&pause=1000&color=F7692F&random=false&width=435&lines=A+community+with+a+shared+future+for+mankind%EF%BC%81" alt="Typing SVG" /></a>
+  <br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+XiaoWei&size=25&duration=6000&pause=800&color=000000&random=false&width=500&lines=%E4%BA%BA%E7%B1%BB%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93" alt="Typing SVG" /></a>
 </h1>
 
 <!-- knock code pictures 敲代码的图片 -->
