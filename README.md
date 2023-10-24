@@ -14,6 +14,9 @@
     <a href="/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+  </div>
+    
+    
 - 🌱 I’m currently learning data analysis
 
 
